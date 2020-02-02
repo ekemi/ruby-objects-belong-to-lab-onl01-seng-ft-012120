@@ -10,7 +10,4 @@ class Song
     @title
   end
   
-  
-  
-  
 end
