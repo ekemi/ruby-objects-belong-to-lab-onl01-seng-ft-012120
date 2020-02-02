@@ -1,8 +1,10 @@
 class Artist 
-  attr_reader :name
+  def name=(name)
+    @name = name
+  end
     
     
-  def name (name)
+  def name 
      @name
   end
   
