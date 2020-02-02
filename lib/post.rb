@@ -1,6 +1,6 @@
 class Post 
   def title=(title)
-    @name = name
+    @title = title
   end
     
     
