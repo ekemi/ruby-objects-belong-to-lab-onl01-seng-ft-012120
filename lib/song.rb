@@ -5,6 +5,12 @@ class Song
     @title
   end
   
+  def title
+    
+    @title
+  end
+  
+  
   
   
 end
